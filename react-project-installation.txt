@@ -1,0 +1,7 @@
+npm init 
+initialize git repository 
+npm install -D parcel 
+npx parcel index.html
+npm install react
+npm install react-dom
+npx parcel index.html
